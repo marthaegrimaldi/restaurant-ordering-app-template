@@ -225,6 +225,6 @@ Find the link for the complete documentation of the Restaurant Ordering App Temp
 
 The frontend source code for our solution is completely open source. However, the API and backend is proprietary and can be accessed via a paid license. For further information, contact us on the channels provided below.
 
-## :mailbox_with_mail: Contact Us: <a id="heading-13"></a>
+## :mailbox_with_mail: Contact Us: <a id="heading-13"> </a>
 
 [Check out the Product Page and Pricing and more for Restaurant Ordering App Template](https://enatega.com/?utm_source=github&utm_medium=repo&utm_campaign=martha-restaurant-ordering-app-template)
